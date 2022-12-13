@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/coordenada-clima-tempo/static/js/main.ae03b089.js",
+    "main.js": "/coordenada-clima-tempo/static/js/main.aa55014d.js",
     "static/media/backgroundImg.jpg": "/coordenada-clima-tempo/static/media/backgroundImg.1e2bad270fd2b572a044.jpg",
     "index.html": "/coordenada-clima-tempo/index.html",
-    "main.ae03b089.js.map": "/coordenada-clima-tempo/static/js/main.ae03b089.js.map"
+    "main.aa55014d.js.map": "/coordenada-clima-tempo/static/js/main.aa55014d.js.map"
   },
   "entrypoints": [
-    "static/js/main.ae03b089.js"
+    "static/js/main.aa55014d.js"
   ]
 }
