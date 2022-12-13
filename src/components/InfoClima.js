@@ -36,12 +36,6 @@ export default function InfoClima({dadosTemperatura}){
             </div>
           </div>
         </div>
-
-    //     <div className="infoClima">
-    //     <h3>{dadosTemperatura.cidade}</h3>
-    //     <h3>{dadosTemperatura.temperatura} °C</h3>
-    //     <h3>{dadosTemperatura.clima}</h3>
-    //   </div>
-
+        
     );
 }
